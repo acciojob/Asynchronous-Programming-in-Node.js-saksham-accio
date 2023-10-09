@@ -1,0 +1,1 @@
+Create a Node.js program that accepts a list of URLs as command-line arguments. The program should download the content of each URL and write it to a separate file in the current directory. The name of each file should be the same as the hostname of the corresponding URL.
